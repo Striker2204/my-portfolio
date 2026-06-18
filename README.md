@@ -1,6 +1,6 @@
 # My Portfolio
 
-Welcome to my personal portfolio website. Here I showcase my projects, skills, achievements, and learning journey in Web Development and Data Structures & Algorithms.
+Welcome to my personal portfolio website. This portfolio showcases my skills, projects, education, and achievements.
 
 ## Skills
 - C++
@@ -10,14 +10,11 @@ Welcome to my personal portfolio website. Here I showcase my projects, skills, a
 - JavaScript
 - Git & GitHub
 
-## Projects
-- Portfolio Website
-- (Add your other projects here)
+## About Me
+I am a Computer Science student passionate about Web Development and Data Structures & Algorithms. I enjoy building projects and continuously improving my problem-solving skills.
 
-## Tech uses 
--HTML
--CSS
-
+## Live Demo
+https://striker2204.github.io/my-portfolio/
 
 ## Connect With Me
 GitHub: https://github.com/Striker2204
